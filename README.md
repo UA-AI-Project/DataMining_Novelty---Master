@@ -14,7 +14,7 @@ The data used in this project come from the Steam platform and capture user inte
 ## Results
 ![Results](local_res.png)
 
-The results show that the goal is achieved: novelty-optimized algorithms recommend games that are less popular and more relevant to the user's preferences than baseline algorithms by simply increasing the novelty.
+The results show that the goal is achieved: novelty-optimized algorithms recommend games that are less popular and more relevant to the user's preferences than baseline algorithms by simply increasing the novelty. Extra results and analysis can be found in the report given.
 
 ## Sanity Checks
 There are also some sanity checks to ensure that the recommendations are reproducible and do not contain duplicates.
