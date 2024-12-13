@@ -12,7 +12,7 @@ All the algorithms predict game recommendations for users, and based on the grou
 The data used in this project come from the Steam platform and capture user interactions with the games available, showing which user has interacted with which games and how much they have played each game.
 
 ## Results
-![Results](image.png)
+![Results](local_res.png)
 
 The results show that the goal is achieved: novelty-optimized algorithms recommend games that are less popular and more relevant to the user's preferences than baseline algorithms by simply increasing the novelty.
 
